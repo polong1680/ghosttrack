@@ -1,0 +1,22 @@
+GhostTrack 汉化版（ghosttrack-zh）NOTICE
+=========================================
+
+本仓库是 https://github.com/HunxByts/GhostTrack 的中文汉化版本。
+
+GhostTrack 原项目未附带任何开源许可证（No License）。
+依照默认著作权法律原则，GhostTrack 的全部权利归原作者所有：
+
+    Copyright (c) HunxByts
+    https://github.com/HunxByts
+
+本仓库的处理方式：
+
+1. 仅对原项目的界面文字与文档进行中文翻译，程序逻辑未作任何改动；
+2. 不对本项目附加任何与其权利相冲突的再许可条款；
+3. 原作者注释中"重写需征得许可、至少保留作者 GitHub 署名"的要求，
+   本仓库以显著方式保留其署名并遵守；
+4. 若原作者认为本汉化仓库侵犯其权益，或原项目日后以其他许可证
+   发布与本仓库不兼容，收到 Issue 后将立即下架处理。
+
+汉化基线：HunxByts/GhostTrack main 分支（Version 2.2）。
+汉化内容（中文译文的著作权）随原项目权利一并处置，不单独主张。
